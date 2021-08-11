@@ -1,7 +1,7 @@
-<h3> Olá!😁 Eu sou Gabriel Augusto 👋 </h3>
+## Olá!😁 Eu sou Gabriel Augusto 👋
 
-👨🏽‍💻 Sou aluno de ciência da computação. <br>
-👨🏽‍🚀 Atualmente não trabalho na área, mas faço pequenos projetos front-end para estudos próprios.
+<!-- 👨🏽‍💻 Sou aluno de ciência da computação. <br>
+👨🏽‍🚀 Atualmente não trabalho na área, mas faço pequenos projetos front-end para estudos próprios. -->
 
 <div>
   <a href="https://github.com/GabrielAugus">
