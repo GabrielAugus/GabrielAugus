@@ -1,12 +1,12 @@
 ## Olá!😁 Eu sou Gabriel Augusto 👋
 
-<!-- 👨🏽‍💻 Sou aluno de ciência da computação. <br>
-👨🏽‍🚀 Atualmente não trabalho na área, mas faço pequenos projetos front-end para estudos próprios. -->
+👨🏽‍💻 Estudo ciência da computação. <br>
+👨🏽‍🚀 Atualmente não trabalho na área, mas faço pequenos projetos front-end para estudos próprios.
 
 <div>
   <a href="https://github.com/GabrielAugus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielaugus&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaugus&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaugus&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
